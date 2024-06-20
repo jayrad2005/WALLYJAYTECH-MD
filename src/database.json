@@ -29,7 +29,7 @@
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
-      "antiviewonce": false,
+      "antiviewonce": true,
       "antivirtex": false,
       "antimedia": false,
       "antiimage": false,
@@ -40,14 +40,14 @@
       "antilocation": false,
       "antidocument": false,
       "anticontact": false,
-      "antilink": false,
+      "antilink": true,
       "antilinkgc": false
     },
     "2348144317152@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
-      "antiviewonce": false,
+      "antiviewonce": true,
       "antivirtex": false,
       "antimedia": false,
       "antiimage": false,
@@ -58,14 +58,14 @@
       "antilocation": false,
       "antidocument": false,
       "anticontact": false,
-      "antilink": false,
+      "antilink": true,
       "antilinkgc": false
     },
     "2348106206532@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
-      "antiviewonce": false,
+      "antiviewonce": true,
       "antivirtex": false,
       "antimedia": false,
       "antiimage": false,
@@ -76,7 +76,7 @@
       "antilocation": false,
       "antidocument": false,
       "anticontact": false,
-      "antilink": false,
+      "antilink": true,
       "antilinkgc": false
     }
   },
@@ -106,7 +106,7 @@
       "about": {
         "bot": {
           "nick": "Ok",
-          "alias": "WALLYJAYTECH-MD"
+          "alias": "GOD BOT"
         },
         "owner": {
           "nick": "+2348144317152",
