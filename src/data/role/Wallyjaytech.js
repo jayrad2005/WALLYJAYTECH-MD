@@ -1,3 +1,3 @@
 {
-	"name": "Wallyjaytech Bot Multi Device "
+	"name": "Lord High Bot Bot Multi Device "
 }
